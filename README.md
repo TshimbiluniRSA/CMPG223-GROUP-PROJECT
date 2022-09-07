@@ -3,7 +3,7 @@
 ## Table of Contents
 
 -[Background](#Background)
- -[Problem Statement](#Problem_Statement)
+ - [Problem Statement](#Problem_Statement)
 
 ## Background
 
@@ -16,7 +16,9 @@ With technology on the rise, increase in demand, and affordable prices, makes PC
 The business is still new therefore they do not have an ideal information system to support their business processes which are:
 
 •	LAN competition scheduling
+
 •	PC building 
+
 •	Advertising new stock
 
 The current system is not capable of generating financial statements such as profit and loss.
