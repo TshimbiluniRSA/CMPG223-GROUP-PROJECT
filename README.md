@@ -53,6 +53,6 @@ Customers currently do not have any memberships.
 
 ## UseCase_Diagram
 
-[UseCase_Diagram](
+[UseCase_Diagram](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/UseCase_Diagram.png)
 
 
