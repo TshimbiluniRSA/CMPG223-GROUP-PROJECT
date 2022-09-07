@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
--[Background](#Background)
+- [Background](#Background)
  - [Problem Statement](#Problem Statement)-
--[Scope Definition](#Scope Definition)
+- [Scope Definition](#Scope Definition)
 
 ## Background
 
