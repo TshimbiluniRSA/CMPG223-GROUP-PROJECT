@@ -5,6 +5,8 @@
 - [Background](#Background)
   - [Problem Statement](#Problem_Statement)
 - [Scope Definition](#Scope_Definition)
+- [Class Diagram](#Class_Diagram)
+- [Team](#Team)
 
 ## Background
 
@@ -43,5 +45,9 @@ Customers currently do not have any memberships.
 •	Creating financial statements
 
 •	File and complaints (customer service)
+
+## Class_Diagram
+
+[Class Diagram](
 
 
