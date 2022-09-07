@@ -88,3 +88,8 @@ Customers currently do not have any memberships.
 
 [MaintainVenues(Process Model)](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/MaintainVenues(Process%20Model).pdf)
 
+## Team
+[]()
+[Tshepang Bereng]()
+
+
