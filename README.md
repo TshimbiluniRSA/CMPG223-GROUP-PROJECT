@@ -70,7 +70,7 @@ Customers currently do not have any memberships.
 
 ## Maintain_Game
 
-[MaintainGame(Process Model)](
+[MaintainGame(Process Model)](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/MaintainGame(Process%20Model).pdf)
 
 ## Maintain_Platforms
 
