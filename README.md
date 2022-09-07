@@ -94,6 +94,6 @@ Customers currently do not have any memberships.
 - [Layton Wylbacht](https://github.com/Lay-Dawg)
 - [Llayton]()
 - [Sekwati]()
-- [Simphiwe Mbaya]()
+- [Siphiwe Mbaya]()
 
 
