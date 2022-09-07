@@ -8,6 +8,12 @@
 - [Class Diagram](#Class_Diagram)
 - [Use Case Diagram](#UseCase_Diagram)
 - [Data Model](#Data_Model)
+- [Process Model]
+  - [Maintain Game](#Maintain_Game)
+  - [Maintain Platforms](#Maintain_Platforms)
+  - [Maintain Score](#Maintain_Score)
+  - [Maintain Teams](#Maintain_Teams)
+  - [Maintain Venues](#Maintain_Venues)
 - [Team](#Team)
 
 ## Background
