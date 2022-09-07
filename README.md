@@ -91,5 +91,6 @@ Customers currently do not have any memberships.
 ## Team
 - [Tshimbiluni Nedambale](https://github.com/TshimbiluniRSA)
 - [Tshepang Bereng](https://github.com/WinteerBeaar)
+- [Layton Wylbacht](https://github.com/Lay-Dawg)
 
 
