@@ -74,12 +74,17 @@ Customers currently do not have any memberships.
 
 ## Maintain_Platforms
 
-[MaintainPlatforms(Process Model)](
+[MaintainPlatforms(Process Model)](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/MaintainPlatforms(Process%20Model).pdf)
 
 ## Maintain_Scores
 
-[MaintainScores(Process Model)](
+[MaintainScores(Process Model)](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/MaintainScores(Process%20Model).pdf)
 
 ## Maintain_Teams
 
+[MaintainTeam(Process Model)](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/MaintainTeam(Process%20Model).pdf)
+
+## Maintain_Venues
+
+[MaintainVenues(Process Model)](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/MaintainVenues(Process%20Model).pdf)
 
