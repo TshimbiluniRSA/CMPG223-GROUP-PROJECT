@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Background](#Background)
- - [Problem Statement](#Problem_Statement)
+  - [Problem Statement](#Problem_Statement)
 - [Scope Definition](#Scope_Definition)
 
 ## Background
