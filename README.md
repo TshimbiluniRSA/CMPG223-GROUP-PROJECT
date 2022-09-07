@@ -8,10 +8,10 @@
 - [Class Diagram](#Class_Diagram)
 - [Use Case Diagram](#UseCase_Diagram)
 - [Data Model](#Data_Model)
-- Process Model
+- [Process Model](#Process_Model)
   - [Maintain Game](#Maintain_Game)
   - [Maintain Platforms](#Maintain_Platforms)
-  - [Maintain Score](#Maintain_Score)
+  - [Maintain Scores](#Maintain_Scores)
   - [Maintain Teams](#Maintain_Teams)
   - [Maintain Venues](#Maintain_Venues)
 - [Team](#Team)
@@ -65,5 +65,21 @@ Customers currently do not have any memberships.
 ## Data_Model
 
 [DataModel](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/DataModel.pdf)
+
+## Process_Model
+
+## Maintain_Game
+
+[MaintainGame(Process Model)](
+
+## Maintain_Platforms
+
+[MaintainPlatforms(Process Model)](
+
+## Maintain_Scores
+
+[MaintainScores(Process Model)](
+
+## Maintain_Teams
 
 
