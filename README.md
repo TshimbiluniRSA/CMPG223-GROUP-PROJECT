@@ -7,6 +7,7 @@
 - [Scope Definition](#Scope_Definition)
 - [Class Diagram](#Class_Diagram)
 - [Use Case Diagram](#UseCase_Diagram)
+- [Data Model](#Data_Model)
 - [Team](#Team)
 
 ## Background
@@ -54,5 +55,9 @@ Customers currently do not have any memberships.
 ## UseCase_Diagram
 
 [UseCase_Diagram](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/UseCase_Diagram.png)
+
+## Data_Model
+
+[DataModel](https://github.com/TshimbiluniRSA/CMPG223-GROUP-PROJECT/blob/main/Files/DataModel.pdf)
 
 
