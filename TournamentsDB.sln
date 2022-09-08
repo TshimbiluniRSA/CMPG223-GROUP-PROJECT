@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TournamentsDB", "TournamentsDB\TournamentsDB.sqlproj", "{6C08AD36-1239-420F-B604-47C8E8D816E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentsWebApp", "TournamentsWebApp\TournamentsWebApp.csproj", "{40601186-F160-4790-B30A-749AD3E702E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Custom Images", "Custom Images", "{D8DC5FA8-6A6B-44BB-B6E7-559096D67E48}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\FIFA 22.png = ..\..\..\..\..\..\FIFA 22.png
+		TournamentsWebApp\PC EXCLUSIVES 3.png = TournamentsWebApp\PC EXCLUSIVES 3.png
+		TournamentsWebApp\PC EXCLUSIVES.png = TournamentsWebApp\PC EXCLUSIVES.png
+		TournamentsWebApp\PC EXCLUSIVES2.png = TournamentsWebApp\PC EXCLUSIVES2.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C08AD36-1239-420F-B604-47C8E8D816E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C08AD36-1239-420F-B604-47C8E8D816E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C08AD36-1239-420F-B604-47C8E8D816E7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6C08AD36-1239-420F-B604-47C8E8D816E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C08AD36-1239-420F-B604-47C8E8D816E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C08AD36-1239-420F-B604-47C8E8D816E7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{40601186-F160-4790-B30A-749AD3E702E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40601186-F160-4790-B30A-749AD3E702E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40601186-F160-4790-B30A-749AD3E702E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40601186-F160-4790-B30A-749AD3E702E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE655F53-A205-4550-A3E4-86BAEEEAC300}
+	EndGlobalSection
+EndGlobal
