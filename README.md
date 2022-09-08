@@ -92,7 +92,7 @@ Customers currently do not have any memberships.
 - [Tshimbiluni Nedambale](https://github.com/TshimbiluniRSA)
 - [Tshepang Bereng](https://github.com/WinteerBeaar)
 - [Layton Wylbacht](https://github.com/Lay-Dawg)
-- [Llayton Titus]()
+- [Llayton Titus]
 - [Sekwati Thulare]()
 - [Siphiwe Mbaya]()
 
