@@ -1,8 +1,11 @@
 ﻿/* Group members
- *  - Alethea (32788444)
- *  - Aaryadev Ghosalkar (35553367)
- *  - Alwyn bernard (32033303)
- *  - Layton Wylbacht (32043996)
+ * 
+    Tshimbiluni Theophillus Nedambale: 33574359
+    Llayton Titus : 34416579
+    Siphiwe Mbaya: 33535833
+    Tshepang Bereng: 32878729
+    Sekwati Thulare: 28124227
+    Layton Wylbacht: 32043996
  */
 
 using System;

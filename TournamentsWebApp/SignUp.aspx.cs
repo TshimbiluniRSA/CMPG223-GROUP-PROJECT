@@ -11,7 +11,7 @@ namespace PC_Exclusive
 {
     public partial class SignUp : System.Web.UI.Page
     {
-        string conStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Tshimbiluni\source\repos\TshimbiluniRSA\CMPG223-GROUP-PROJECT\TournamentsWebApp\App_Data\TournamentsDB.mdf;Integrated Security=True;Connect Timeout=30";
+        string conStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\32043996\OneDrive - NORTH-WEST UNIVERSITY\Desktop\NWU 2022\SECOND SEMESTER\CMPG 223\CMPG-213_223-Project\Database\TournamentsDB\TournamentsWebApp\App_Data\TournamentsDB.mdf;Integrated Security=True;Connect Timeout=30";
         SqlConnection connection;
         SqlCommand command;
         SqlDataAdapter adapter;
@@ -28,7 +28,7 @@ namespace PC_Exclusive
             try
             {
                 SqlDataAdapter adapter = new SqlDataAdapter();
-                command = new SqlCommand($"INSERT INTO  PlayersInfo(FirstName, LastName, Username, Password, Email) VALUES ('{TextBox1.Text}',{TextBox6.Text}','{TextBox5.Text}', '{TextBox2.Text}', '{TextBox3.Text}')", connection);
+                command = new SqlCommand($"INSERT INTO  PlayersInfo(FirstName, LastName, Username, Password, Email) VALUES ('{TextBox1.Text}', '{TextBox6.Text}', '{TextBox5.Text}', '{TextBox2.Text}', '{TextBox3.Text}' ", connection);
                 adapter.InsertCommand = command;
 
                 connection.Open();
@@ -40,7 +40,7 @@ namespace PC_Exclusive
                 Label7.Text = error.Message;
             }
 
-            Response.Redirect("HomePage.aspx");
+           // Response.Redirect("HomePage.aspx");
 
         }
 
