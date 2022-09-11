@@ -1,6 +1,0 @@
-C:\Users\Aaryadev\Desktop\UNI\AARYADEV-STUDY\2nd Year\2nd-Semester\CMPG 223\Project\CMPG-213_223-Project\Database\TournamentsDB\TournamentsDB\bin\Debug\TournamentsDB.dacpac
-C:\Users\Aaryadev\Desktop\UNI\AARYADEV-STUDY\2nd Year\2nd-Semester\CMPG 223\Project\CMPG-213_223-Project\Database\TournamentsDB\TournamentsDB\bin\Debug\TournamentsDB.dll
-C:\Users\Aaryadev\Desktop\UNI\AARYADEV-STUDY\2nd Year\2nd-Semester\CMPG 223\Project\CMPG-213_223-Project\Database\TournamentsDB\TournamentsDB\bin\Debug\TournamentsDB.pdb
-C:\Users\Aaryadev\Desktop\UNI\AARYADEV-STUDY\2nd Year\2nd-Semester\CMPG 223\Project\CMPG-213_223-Project\Database\TournamentsDB\TournamentsDB\obj\Debug\TournamentsDB.dll
-C:\Users\Aaryadev\Desktop\UNI\AARYADEV-STUDY\2nd Year\2nd-Semester\CMPG 223\Project\CMPG-213_223-Project\Database\TournamentsDB\TournamentsDB\obj\Debug\TournamentsDB.pdb
-C:\Users\Aaryadev\Desktop\UNI\AARYADEV-STUDY\2nd Year\2nd-Semester\CMPG 223\Project\CMPG-213_223-Project\Database\TournamentsDB\TournamentsDB\obj\Debug\TournamentsDB.sqlproj.AssemblyReference.cache

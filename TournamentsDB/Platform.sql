@@ -1,5 +1,0 @@
-﻿CREATE TABLE [dbo].[Platform]
-(
-	[Id] INT NOT NULL PRIMARY KEY IDENTITY(1,1),
-	[Name] CHAR(20) -- NOT NULL
-)
