@@ -46,11 +46,12 @@ namespace TournamentsWebApp
 
 		private void deleteGameFromDB(string name)
 		{
-			string sql = "DELETE FROM Game WHERE Name = @name";
+			string sql = "DELETE FROM Game WHERE Name = @Name";
 			connection.Open();
 			{
 				SqlCommand cmd = new SqlCommand(sql, connection);
-				cmd.Parameters.AddWithValue("@name", name);
+				cmd.Parameters.AddWithValue("@Name", name);
+				cmd.CommandType = CommandType.Text;
 				cmd.ExecuteNonQuery();
 			}
 			connection.Close();
@@ -75,9 +76,17 @@ namespace TournamentsWebApp
 
 		protected void deleteGame_Click(object sender, EventArgs e)
 		{
-			int a = existingGames.Items.Count;
-			string selected = existingGames.SelectedValue;
-			deleteGameFromDB(selected);
+
+			for(int i = 0; i <= existingGames.Items.Count - 1; i++)
+            {
+                if (existingGames.Items[i].Selected)
+                {
+					deleteGameFromDB(existingGames.Items[i].Value.ToString());
+					
+				}
+            }
+			//string remove = existingGames.SelectedItem.Text;
+			existingGames.Items.Remove(existingGames.SelectedItem);
 			populateListBox();
 		}
 	}
